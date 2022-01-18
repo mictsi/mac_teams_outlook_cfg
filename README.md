@@ -17,7 +17,7 @@ curl -O https://github.com/mictsi/mac_teams_outlook_cfg/blob/main/Coerce-Outlook
 
 ```
 
-### Install configuration
+### Install configuration to system by opening the configuration
 ```bash
 open Coerce-Outlook-REST-Sync.mobileconfig
 ```
