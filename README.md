@@ -8,26 +8,28 @@ Original repo https://github.com/pbowden-msft/MobileConfigs/tree/master/Outlook
 
 Original snip https://raw.githubusercontent.com/pbowden-msft/MobileConfigs/master/Outlook/Coerce-Outlook-REST-Sync.mobileconfig
 
-### Open a terminal
+## Close outlook and teams before proceeding.
 
-### Download the configuration
+### 1. Open a terminal
+
+### 2. Download the configuration
 
 ```bash
 curl -O https://github.com/mictsi/mac_teams_outlook_cfg/blob/main/Coerce-Outlook-REST-Sync.mobileconfig
 
 ```
 
-### Install configuration to system by opening the configuration
+### 3. Install configuration to system by opening the configuration
 ```bash
 open Coerce-Outlook-REST-Sync.mobileconfig
 ```
 
-### Open Systempreferences
+### 4. Open Systempreferences
 
 System preferences: 
 ![alt text](https://github.com/mictsi/mac_teams_outlook_cfg/blob/main/1.png "1")
 
-### Install MDM profile to system (requires admin rights)
+### 5. Install MDM profile to system (requires admin rights)
 
 Step 1 choose profile: 
 ![alt text](https://github.com/mictsi/mac_teams_outlook_cfg/blob/main/2.png "2")
