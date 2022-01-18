@@ -10,3 +10,15 @@ Original snip https://raw.githubusercontent.com/pbowden-msft/MobileConfigs/maste
 ```
 curl -O https://raw.githubusercontent.com/pbowden-msft/MobileConfigs/master/Outlook/Coerce-Outlook-REST-Sync.mobileconfigprofiles install -path Coerce-Outlook-REST-Sync.mobileconfig
 ```
+
+
+#
+Inline-style: 
+![alt text](https://github.com/mictsi/mac_teams_outlook_cfg/blob/main/1.png "1")
+
+Inline-style: 
+![alt text](https://github.com/mictsi/mac_teams_outlook_cfg/blob/main/2.png "2")
+
+Inline-style: 
+![alt text](https://github.com/mictsi/mac_teams_outlook_cfg/blob/main/3.png "3")
+
